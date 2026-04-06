@@ -1,2 +1,2 @@
 # SPACER-PROJECT-
-In this project I have incorporated the real life problems of asthma patients by making a 3D printed spacer with senors which detects the whether the person has inhaled enough dosage or not 
+In this project, I have addressed real-life challenges faced by asthma patients by designing a 3D-printed spacer equipped with sensors to detect whether the user has inhaled a sufficient dosage
